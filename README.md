@@ -1,10 +1,10 @@
 # My Dapp
 
-This project is for the blockchain application My Dapp. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+This project is for the blockchain application Strength World. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
 
 # Pre-requisites
 
-In order to develop and build "My Dapp," the following pre-requisites must be installed:
+In order to develop and build "Strength World" the following pre-requisites must be installed:
 
 * [Visual Studio Code](https://code.visualstudio.com/download) (or any IDE for editing Javascript)
 * [NodeJS](https://nodejs.org/en/download/)
@@ -53,7 +53,7 @@ Here are the locations of some important files:
 * Data Layouts: [packages/dapplib/src/scripts/layouts.js](packages/dapplib/src/scripts/layouts.js)
 * Deploy Script: [packages/dapplib/src/scripts/deploy.js](packages/dapplib/src/scripts/deploy.js)
 
-To view your dapp, open your browser to http://localhost:5000 for the DappStarter Workspace.
+To view your dapp, open your browser to http://159.65.173.219/:5000 for the DappStarter Workspace.
 
 We ♥️ developers and want you to have an awesome experience. You should be experiencing Dappiness at this point. If not, let us know and we will help. Join our [Discord](https://discord.gg/XdtJfu8W) or hit us up on Twitter [@Decentology](https://twitter.com/decentology).
 

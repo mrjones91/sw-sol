@@ -20,7 +20,7 @@ export default class ComposerPage extends LitElement {
   }
   constructor(args) {
     super(args);
-    this.apiUrl = 'http://localhost:5002/api/composer';
+    this.apiUrl = 'http://159.65.173.219/:5002/api/composer';
   }
 
   getModules() {
